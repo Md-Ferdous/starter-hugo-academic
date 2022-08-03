@@ -5,9 +5,10 @@ avatar_filename: fd-27108.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Computer Vision
+  - Machine Learning and Deep Learning
+  - Robotics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
