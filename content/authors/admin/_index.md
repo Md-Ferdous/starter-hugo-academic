@@ -1,7 +1,7 @@
 ---
 title: Md. Ferdous
 role: Lecturer of Computer Science and Engineering
-avatar_filename: fd-27108.jpg
+avatar_filename: assets/media/fd-27108.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
