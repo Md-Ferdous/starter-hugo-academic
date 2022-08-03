@@ -1,79 +1,57 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: With numerous countermeasures, the number of deaths in the
+  construction industry is still higher compared to other industries. Personal
+  Protective Equipment (PPE) is constantly being improved to avoid these
+  accidents, although workers intentionally or unintentionally forget to use
+  such safety measures. It is challenging to manually run a safety check as the
+  number of co-workers on a site can be large; however, it is a prime duty of
+  the authority to provide maximum protection to the workers on the working
+  site. From these motivations, we have created a computer vision (CV) based
+  automatic PPE detection system that detects various types of PPE. This study
+  also created a novel dataset named CHVG (four colored hardhats, vest, safety
+  glass) containing eight different classes, including four colored hardhats,
+  vest, safety glass, person body, and person head. The dataset contains 1,699
+  images and corresponding annotations of these eight classes. For the detection
+  algorithm, this study has used the You Only Look Once (YOLO) family’s
+  anchor-free architecture, YOLOX, which yields better performance than the
+  other object detection models within a satisfactory time interval. Moreover,
+  this study found that the YOLOX-m model yields the highest mean average
+  precision (mAP) than the other three versions of the YOLOX.
+slides: example
+url_pdf: ""
+publication_types:
+  - "1"
+  - "2"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - Sk. Md. Masudul Ahsan
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+  - Equal contribution
+  - Equal contribution
+publication: In *PeerJ Computer Science*
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
 publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+url_source: ""
+url_video: ""
+title: An example conference paper
+doi: https://doi.org/10.7717/peerj-cs.999
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+tags: []
 projects:
   - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
