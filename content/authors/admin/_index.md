@@ -42,4 +42,4 @@ highlight_name: true
 ---
 Md. Ferdous is a Lecturer of Computer Science and Engineering at the Uttara University. His research interests include distributed Computer Vision, Machine Learning and Deep Learning, Robotics, and programmable matter. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume-3-.pdf" "newtab" >}}resumé{{< /staticref >}}.
