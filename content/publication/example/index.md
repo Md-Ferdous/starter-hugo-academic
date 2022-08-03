@@ -26,7 +26,7 @@ abstract: With numerous countermeasures, the number of deaths in the
   this study found that the YOLOX-m model yields the highest mean average
   precision (mAP) than the other three versions of the YOLOX.
 draft: false
-featured: true
+featured: false
 tags: []
 slides: example
 url_pdf: ""
