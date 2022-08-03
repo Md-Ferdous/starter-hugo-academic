@@ -1,4 +1,12 @@
 ---
+title: "PPE detector: a YOLO-based architecture to detect personal protective
+  equipment (PPE) for construction sites"
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Sk. Md. Masudul Ahsan
+publication_short: In *PeerJ Computer Science*
 abstract: With numerous countermeasures, the number of deaths in the
   construction industry is still higher compared to other industries. Personal
   Protective Equipment (PPE) is constantly being improved to avoid these
@@ -17,36 +25,29 @@ abstract: With numerous countermeasures, the number of deaths in the
   other object detection models within a satisfactory time interval. Moreover,
   this study found that the YOLOX-m model yields the highest mean average
   precision (mAP) than the other three versions of the YOLOX.
+draft: false
+featured: true
+tags: []
 slides: example
 url_pdf: ""
-publication_types:
-  - "1"
-  - "2"
-authors:
-  - admin
-  - Sk. Md. Masudul Ahsan
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *PeerJ Computer Science*
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.7717/peerj-cs.999
-featured: true
-tags: []
+publication: In *PeerJ Computer Science*
 projects:
   - example
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
