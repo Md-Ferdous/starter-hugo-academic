@@ -25,19 +25,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Uttara University
+    url: https://uttarauniversity.edu.bd/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Science in Computer Science and Engineering
+      institution: Khulna University of Engineering & Technology
+      year: 2022
+    - course: Bachelor of Science in Computer Science and Engineering
+      institution: Bangabandhu Sheikh Mujibur Rahman Science and Technology University
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
